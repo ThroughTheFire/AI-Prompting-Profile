@@ -1,10 +1,9 @@
 # 🤖 AI Prompting Profile  
 *A curated profile of empowering minds through ai driven intelligence, creative work flows and inspirational problem solving— by River*
 
-Career Objective Goal
+## Career Objective Goal
 
-This portfolio showcases my ability in ai prompt engineering and creative problem solving highlights my goal to find ai related work where I can contribute meaningfully and grow with projects that reflect my personal talents and interests.
----
+This portfolio showcases my ability in **AI prompt engineering** and **creative problem solving**, and highlights my goal to find **AI-related work** where I can contribute meaningfully and grow with projects that reflect my personal talents and interests.
 
 ## 🌟 About This Project
 
