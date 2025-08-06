@@ -1,4 +1,5 @@
-# 🤖 AI Prompting Profile  
+# 🤖 
+# River Through The Fire Prompting
 *A curated profile of empowering minds through ai driven intelligence, creative work flows and inspirational problem solving— by River*
 <img width="1024" height="1536" alt="1000000057" src="https://github.com/user-attachments/assets/072f520a-37a8-43bc-bb70-13168f6a83fb" />
 
@@ -27,17 +28,19 @@ Example of a more advanced prompt for best results.
 > 
 >  "Write a vivid short story (500–800 words) about a futuristic time-traveling detective named Cass Arden, who is sent back to 18th Dynasty Egypt (around 1350 BCE) to solve the mysterious disappearance of a royal scribe.
 
-Include the following elements:
+>Include the following elements:
 
-Description of ancient Thebes and the Valley of the Kings
+>Description of ancient Thebes and the Valley of the Kings
 
-A blend of futuristic technology with ancient tools and customs
+>A blend of futuristic technology with ancient tools and customs
 
-Dialogue between Cass and an Egyptian high priest or local investigator
+>Dialogue between Cass and an Egyptian high priest or local investigator
 
-A plot twist involving a false suspect and a hidden motive
+>A plot twist involving a false suspect and a hidden motive
 
-A conclusion that ties Cass’s future tech to solving the ancient case
+>A conclusion that ties Cass’s future tech to solving the ancient case
+
+
 
 **Purpose:**  
 To generate engaging narratives with historical, sci-fi, and character-driven depth.
