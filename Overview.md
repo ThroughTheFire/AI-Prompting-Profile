@@ -1,5 +1,6 @@
 # 🤖 AI Prompting Profile  
 *A curated profile of empowering minds through ai driven intelligence, creative work flows and inspirational problem solving— by River*
+<img width="1024" height="1536" alt="1000000057" src="https://github.com/user-attachments/assets/072f520a-37a8-43bc-bb70-13168f6a83fb" />
 
 ## Career Objective Goal
 
