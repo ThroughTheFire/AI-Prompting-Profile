@@ -18,8 +18,26 @@ I approach prompting like a form of modern alchemy — fusing intuition, languag
 
 ### ✍️ Creative Writing Prompts
 
-**Prompt:**  
+**Learn 2 Prompt With Me:**  
+
+Example of a simple prompt we can build on.
 > “Write a short story about a time-traveling detective solving a mystery in ancient Egypt.”
+
+Example of a more advanced prompt for best results.
+> 
+>  "Write a vivid short story (500–800 words) about a futuristic time-traveling detective named Cass Arden, who is sent back to 18th Dynasty Egypt (around 1350 BCE) to solve the mysterious disappearance of a royal scribe.
+
+Include the following elements:
+
+Description of ancient Thebes and the Valley of the Kings
+
+A blend of futuristic technology with ancient tools and customs
+
+Dialogue between Cass and an Egyptian high priest or local investigator
+
+A plot twist involving a false suspect and a hidden motive
+
+A conclusion that ties Cass’s future tech to solving the ancient case
 
 **Purpose:**  
 To generate engaging narratives with historical, sci-fi, and character-driven depth.
