@@ -3,7 +3,9 @@
 *A curated profile of empowering minds through ai driven intelligence, creative work flows and inspirational problem solving— by River*
 <img width="1024" height="1536" alt="1000000057" src="https://github.com/user-attachments/assets/072f520a-37a8-43bc-bb70-13168f6a83fb" />
 
-## Career Objective Goal
+## Objective Goal and Cover Letter
+click here
+[📄 Download Cover Letter](River_Cover_Letter.pdf)
 
 This portfolio showcases my ability in **AI prompt engineering** and **creative problem solving**, and highlights my goal to find **AI-related work** where I can contribute meaningfully and grow with projects that reflect my personal talents and interests.
 
