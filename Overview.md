@@ -40,7 +40,7 @@ Example of a more advanced prompt for best results.
 
 >A conclusion that ties Cass’s future tech to solving the ancient case
 
-
+[Read the story: Echoes in the Dust](./Echoes_in_the_Dust.pdf)
 
 **Purpose:**  
 To generate engaging narratives with historical, sci-fi, and character-driven depth.
