@@ -122,8 +122,7 @@ This portfolio is a growing record of my ability to communicate precisely with l
 ---
 
 ## 🔗 Connect With Me
-
-- 🌍 WordPress: [throughthefire5.wordpress.com](https://throughthefire5.wordpress.com)  
+ 
 - 📫 Email: Riverthroughthefire@proton.me  
 - 🚀 LinkedIn: *(coming soon)*
 
